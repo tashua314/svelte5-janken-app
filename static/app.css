@@ -1,0 +1,25 @@
+/* 一般的なスタイル */
+body {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 10px;
+  border-radius: 5px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+/* スマートフォン向けのスタイル */
+@media (max-width: 600px) {
+  button {
+    font-size: 1.2em; /* スマートフォンでの読みやすさを考慮 */
+  }
+}
+
