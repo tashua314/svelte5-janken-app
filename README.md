@@ -1,5 +1,5 @@
 # svelte5-janken-app
-
+svelte5を用いたじゃんけんアプリ
 ![](https://i.gyazo.com/6cdb5756c86d3c5ee4df294b73bbcbc4.gif)
 
 ## Developing
