@@ -2,7 +2,7 @@
 svelte5を用いたじゃんけんアプリ
 ![](https://i.gyazo.com/6cdb5756c86d3c5ee4df294b73bbcbc4.gif)
 
-![デモはこちら](https://svelte5-janken-app.vercel.app)
+[デモはこちら](https://svelte5-janken-app.vercel.app)
 
 ## Developing
 
