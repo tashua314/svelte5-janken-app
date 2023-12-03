@@ -24,3 +24,21 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+## Author
+**高橋 雄太 | Yuta Takahashi**
+
+```
+11年間webエンジニアとして従事
+2021年にTechGuide合同会社を設立
+3回転職・個人でも案件を不定期に受注
+2021年にTechGuide合同会社を設立
+遠距離恋愛失敗×3｜何考えてるかわからないと振られる｜音信不通自然消滅
+コミュ障エンジニアが笑顔の絶えない結婚生活＆社長生活に🏝
+
+一般向け：奥手コミュ障専門恋愛コーチ
+企業向け：コミュニケーション教育・IT/DXサポート
+定期開催：月１で異業種交流会・オンラインセミナーを企画
+```
+
+<a href="https://lin.ee/ZuckiEw"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/l/love_and_tech/20230919/20230919205805.png" width="1200" height="405" loading="lazy" title="" class="hatena-fotolife" itemprop="image" /></a>
