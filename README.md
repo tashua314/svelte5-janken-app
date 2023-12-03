@@ -2,7 +2,7 @@
 svelte5を用いたじゃんけんアプリ
 ![](https://i.gyazo.com/6cdb5756c86d3c5ee4df294b73bbcbc4.gif)
 
-[デモはこちら](https://svelte5-janken-app.vercel.app)
+[デモはこちら](https://x.gd/FlAVk)
 
 ## Developing
 
@@ -45,4 +45,4 @@ You can preview the production build with `npm run preview`.
 定期開催：月１で異業種交流会・オンラインセミナーを企画
 ```
 
-<a href="https://lin.ee/ZuckiEw"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/l/love_and_tech/20230919/20230919205805.png" width="1200" height="405" loading="lazy" title="" class="hatena-fotolife" itemprop="image" /></a>
+<a href="https://x.gd/PWa42"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/l/love_and_tech/20230919/20230919205805.png" width="1200" height="405" loading="lazy" title="" class="hatena-fotolife" itemprop="image" /></a>
