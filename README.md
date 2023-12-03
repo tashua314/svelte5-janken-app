@@ -2,6 +2,8 @@
 svelte5を用いたじゃんけんアプリ
 ![](https://i.gyazo.com/6cdb5756c86d3c5ee4df294b73bbcbc4.gif)
 
+![デモはこちら](https://svelte5-janken-app.vercel.app)
+
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
@@ -27,6 +29,8 @@ You can preview the production build with `npm run preview`.
 
 ## Author
 **高橋 雄太 | Yuta Takahashi**
+
+奥手コミュ障専門恋愛コーチ
 
 ```
 11年間webエンジニアとして従事
